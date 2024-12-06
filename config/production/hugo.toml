@@ -1,2 +1,2 @@
 # Overrides for production environment
-baseurl = "/"
+baseurl = "https://3willows.github.io/doks/"
